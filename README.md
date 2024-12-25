@@ -1,2 +1,2 @@
-# Odin Recipes
+# Recipes
 Website for recipes
