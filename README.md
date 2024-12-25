@@ -1,2 +1,2 @@
 # Recipes
-website for recipes
+Website for recipes
